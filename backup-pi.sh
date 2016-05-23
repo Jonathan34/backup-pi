@@ -37,6 +37,8 @@ INPUTS=(
 	#bash
 	'/home/pi/.bash_aliases'
 	'/home/pi/.bashrc'
+	'/etc/*.conf'
+	'/etc/network/interfaces'
 )
 
 #create paths
