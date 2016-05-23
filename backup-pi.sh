@@ -30,7 +30,7 @@ INPUTS=(
 	#various
 	'/opt/speedtest-cli-extras/*'
 	#kodi
-	'/home/pi/.kodi/*'
+	#'/home/pi/.kodi/*'
 	#nzbget
 	'/opt/nzbget/*.conf'
 	'/opt/nzbget/scripts/*'
