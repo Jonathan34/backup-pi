@@ -21,9 +21,6 @@ INPUTS=(
 	'/opt/sickrage/backup/sickrage*.zip'
 	#openvpn
 	'/etc/openvpn/*'
-	#general
-	'/etc/default/*'
-	'/etc/resolv.conf'
 	#ssh
 	'/home/pi/.ssh/*'
 	'/etc/ssh/*'
@@ -34,6 +31,12 @@ INPUTS=(
 	#nzbget
 	'/opt/nzbget/*.conf'
 	'/opt/nzbget/scripts/*'
+	#general
+	'/etc/default/*'
+	'/etc/resolv.conf'
+	#bash
+	'/home/pi/.bash_aliases'
+	'/home/pi/.bashrc'
 )
 
 #create paths
