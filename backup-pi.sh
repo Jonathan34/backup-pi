@@ -35,6 +35,7 @@ INPUTS=(
 	'/etc/default/*'
 	'/etc/resolv.conf'
 	'/etc/exports'
+	'/etc/fstab'
 	#bash
 	'/home/pi/.bash_aliases'
 	'/home/pi/.bashrc'
