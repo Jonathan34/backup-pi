@@ -26,6 +26,8 @@ INPUTS=(
 	'/etc/ssh/*'
 	#various
 	'/opt/speedtest-cli-extras/*'
+	'/etc/motion/*'
+	'/etc/default/motion'
 	#kodi
 	#'/home/pi/.kodi/*'
 	#nzbget
